@@ -98,8 +98,7 @@ main {
 }
 
 .text-box p {
-    width: 96%;
-    padding: 2%;
+    padding: 10px;
     position: relative;
     text-align: justify;
     font-size: 14px;
